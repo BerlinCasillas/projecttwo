@@ -1,0 +1,48 @@
+body {
+ background-color: #4D7351;
+}
+
+th{
+ width: 5000px ;
+ height: 200px;
+ border: 8px dotted white ;
+ font-family: Roboto ;
+ font-size : 80px ;
+ margin: 5xp;
+}
+h1{
+	font-family: Roboto ;
+	font-size : 50px ;
+}
+h2 {
+	font-family: Roboto;
+	font-size : 25px ;
+}
+h3 {
+	font-family: Roboto;
+	font-size : 20px ;
+}
+
+.grid {
+  border: 10px #4D7351 solid;
+  width: 500px
+  height: 500px
+  display: grid;
+
+}
+
+.box {
+  background-color: #4D7351;
+  color: black;
+  border-radius: 5px;
+  border: 8px white dotted;
+ font-family: Roboto ;
+ font-size : 40px ;
+}
+img { 
+ height: 300px; 
+ width: 300px;
+}
+
+
+

@@ -1,0 +1,41 @@
+body {  
+ background-color: #4D7351; 
+ }
+
+ th {
+ width: 5000px ;
+ height: 200px;
+ border: 8px dotted white ;
+ font-family: Roboto ;
+ font-size : 25px ;
+ margin: 5xp;
+ }
+ 
+ h1{
+ font-family: Roboto ;
+	font-size : 50px ;
+	}
+	
+h2 { font-family: Roboto;
+	font-size : 4px ;
+	}
+	
+}
+.grid { border: 10px #4D7351 solid;
+  width: 50%;
+  height: 200px;
+ }
+ 
+ .box {  background-color: #4D7351;
+  color: black;
+    display: grid;
+  border-radius: 5px;
+  border: 8px white dotted;
+ font-family: Roboto ;
+ font-size : 35px ;
+ grid-template-column: 50% 50%;
+  grid-template-row: 50% 50%;
+ }
+ 
+ img { height: 800px; 
+ width: 800px; }
